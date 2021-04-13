@@ -3,8 +3,8 @@ package com.codingdojo.objectmaster2;
 public class Human {
 	
 	int health = 100;
-	int intelligence = 8;
-	int stealth = 10;
+	int intelligence = 3;
+	int stealth = 3;
 	int strength = 3;
 	
 	
